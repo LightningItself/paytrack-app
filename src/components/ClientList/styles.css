@@ -1,0 +1,13 @@
+.client {
+  padding: 10px;
+}
+.name {
+  padding: 1px;
+  font-size: 18px;
+  font-family: sans-serif;
+  color: darkslategray;
+}
+.amount {
+  padding: 3px;
+  flex-direction: column;
+}
